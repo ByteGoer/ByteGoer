@@ -1,7 +1,7 @@
 ## ➤ 🌸 Welcome to ByteGoer! 🌸 ➤
 
 **🌱CS Student & Passion Projects**  
-Hey, I’m <span style="color:#608ca6">**Ezrah**</span>! I’m learning game development and exploring PFAS research in my free time. Most people know me for my art, but I decided to study something new in college!  
+Hey, I’m **Ezrah**! I’m learning game development and exploring PFAS research in my free time. Most people know me for my art, but I decided to study something new in college!  
 
 ---
 
