@@ -6,7 +6,7 @@ Hey, I’m **Ezrah**! I’m learning game development and exploring PFAS researc
 ---
 
 **➤ Artist & Animator**  
-When I’m not coding, I’m designing characters, creating background art, or animating. I’ve recently shifted from comics toward animation and game projects now that my series is finished. Just focusing on passion projects!
+When I’m not learning new stuff, I’m designing characters, creating background art, or animating. I’ve recently shifted from comics toward animation and game projects now that my series is finished. Just focusing on passion projects!
 
 
 **➤ Currently Working On**
